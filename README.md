@@ -1,7 +1,7 @@
 ### Hi there, I'm Javier Jesús Martínez Fariñas 👋
 
 
-![](https://komarev.com/ghpvc/?username=jlcarrascof&color=green)
+![](https://komarev.com/ghpvc/?username=jlcarrascof&color=red)
 
 <!--
 **jlcarrascof/jlcarrascof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
