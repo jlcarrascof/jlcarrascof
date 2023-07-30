@@ -3,6 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=jlcarrascof&color=red)
 
+- 🔭 I’m looking for job opportunities.
+- 🌱 I’m currently learning React, Redux, React Native & Flutter.
+- 📫 How to reach me: entrenamientospuntonet@gmail.com
+- 😄 Pronouns: He/him
+
 <!--
 **jlcarrascof/jlcarrascof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
