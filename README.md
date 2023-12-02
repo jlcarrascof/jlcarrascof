@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 -->
 
 [![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcarrascof&show_icons=true&theme=radical&layout=compact)](https://github.com/jlcarrascof/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=jlcarrascof&theme=juicyfresh&no-bg=true" />
