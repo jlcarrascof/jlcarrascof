@@ -6,7 +6,7 @@
 - 🔭 I’m looking for job opportunities.
 - 🌱 I’m currently learning React, Redux, NextJS & Python.
 - 📫 How to reach me: entrenamientospuntonet@gmail.com
-- 😄 Pronouns: He/him
+- ⚡ Pronouns: He/him
 
 <!--
 **jlcarrascof/jlcarrascof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
