@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=jlcarrascof&color=red)
 
 - 🔭 I’m looking for job opportunities.
-- 🌱 I’m currently learning React, Redux, NextJS & Python.
+- 🌱 I’m currently learning React, Redux, NextJS, Python and Ruby. Improving my web design skills.
 - 📫 How to reach me: entrenamientospuntonet@gmail.com
 - ⚡ Pronouns: He/him
 
