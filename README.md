@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=jlcarrascof&color=red)
 
 - 🔭 I’m looking for job opportunities.
-- 🌱 Always updating and improving my skills on: React, Redux, NextJS, NodeJS, Python, PHP, Laravel and Ruby.
+- 🌱 Always updating and improving my skills on: PHP, Laravel, React, Redux, NextJS, NodeJS, Python and Ruby.
 - 📫 How to reach me: entrenamientospuntonet@gmail.com
 - ⚡ Pronouns: He/him
 
