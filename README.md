@@ -5,6 +5,7 @@
 
 - 🔭 I’m looking for job opportunities.
 - 🌱 Always updating and improving my skills on: PHP, Laravel, Codeigniter, Flutter, Vue, React, NextJS, NodeJS, Nest, Python, Go and Ruby (Rails).
+- 😄 Improving my DevOps skills with: Docker
 - 📫 How to reach me: entrenamientospuntonet@gmail.com
 - ⚡ Pronouns: He/him
 
