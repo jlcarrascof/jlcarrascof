@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcarrascof&show_icons=true&theme=radical&layout=compact)](https://github.com/jlcarrascof/github-readme-stats)
+<!--
+[![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcarrascof&show_icons=true&theme=radical&layout=compact)](https://github.com/jlcarrascof/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jlcarrascof&theme=onedark)](https://github.com/jlcarrascof/github-profile-trophy)
-
+-->
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
