@@ -41,11 +41,14 @@ Here are some ideas to get you started:
   <code><img width="15%" heigth="10opx" src="https://alvaroperdiz.com/images/headers/postgresql.png"></code>
   <code><img width="15%"  heigth="100px" src="https://i.blogs.es/91493f/sequelize/1366_2000.png"></code>
   <code><img  width="15%"  heigth="100px" src="https://i.imgur.com/DRUiMyM.png"></code>
+  <!--
   <code><img  width="15%"  heigth="100px" src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png"></code>
-     <code><img width="15%" heigth="100px" src="https://cloudhedge.io/wp-content/uploads/2017/11/aws.png"></code>
+  <code><img width="15%" heigth="100px" src="https://cloudhedge.io/wp-content/uploads/2017/11/aws.png"></code>
+  -->
   <code><img width="15%" heigth="100px" src="https://theduodecim.github.io/Portafolio/img/typescript.png"></code>
-    <code><img width="15%" heigth="100px" src="https://pro.guslyon.fr/static/material-ui-4a66e3fd52c7ec9469f4684b68aca251.png"></code>
-   
+  <!--
+  <code><img width="15%" heigth="100px" src="https://pro.guslyon.fr/static/material-ui-4a66e3fd52c7ec9469f4684b68aca251.png"></code>
+   -->
   <br />
   <br />
 </p>
