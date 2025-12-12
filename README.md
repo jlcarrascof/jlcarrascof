@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=jlcarrascof&color=red)
 
 - 🔭 I’m looking for job opportunities.
-- 🌱 Always updating and improving my skills on: PHP, Laravel, Codeigniter, Flutter, Vue, React, NextJS, NodeJS, Nest, Python, Go, Angular and Ruby (Rails).
+- 🌱 Always updating and improving my skills on: PHP, Laravel, Codeigniter, Vue, React, NextJS, NodeJS, Python, Angular and Ruby (Rails).
 - ⚡ Working as: QA Tester using Selenium and Jest with JavaScript
 - 🌱 I’m currently learning AWS.
 - 😄 Improving my DevOps skills with: Docker
