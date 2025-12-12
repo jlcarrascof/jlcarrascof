@@ -36,11 +36,15 @@ Here are some ideas to get you started:
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1200px-Redux_Logo.png"></code>
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
   <br />
+  <code><img width="15%"heigth="100px" src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png"></code>
+   
+  <br />
   <code><img width="15%"heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg"></code>
   <code><img width="15%" heigth="10opx" src="https://alvaroperdiz.com/images/headers/postgresql.png"></code>
   <code><img width="15%"  heigth="100px" src="https://i.blogs.es/91493f/sequelize/1366_2000.png"></code>
   <code><img  width="15%"  heigth="100px" src="https://i.imgur.com/DRUiMyM.png"></code>
+  <br />
   <!--
   <code><img  width="15%"  heigth="100px" src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png"></code>
   <code><img width="15%" heigth="100px" src="https://cloudhedge.io/wp-content/uploads/2017/11/aws.png"></code>
