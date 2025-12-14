@@ -41,9 +41,9 @@ Here are some ideas to get you started:
   <code><img width="15%"heigth="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2bnLwK46mEPhvxkJERdnX_IR5lXnLBpVaQ&s"></code>
   <code><img width="15%"heigth="100px" src="https://miro.medium.com/1*QgpoWkkCxUb3_22DiC4aNg.png"></code>
   <code><img width="15%"heigth="100px" src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg"></code>
+  <code><img width="15%"heigth="100px" src="https://bunnyacademy.b-cdn.net/what-is-docker.png"></code>
 
 <!--
-https://bunnyacademy.b-cdn.net/what-is-docker.png
 https://miro.medium.com/0*a-5u4CyihHVPN7jv.png
 https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1500w
 -->
