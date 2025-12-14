@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <br />
 
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/0*a-5u4CyihHVPN7jv.png"></code>
-  <code><img width="15%" heigth="100px" src="https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1000w"></code>
+  <code><img width="15%" heigth="100px" src="https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg"></code>
   
   <br />
 </p>
