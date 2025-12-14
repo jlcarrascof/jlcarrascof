@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <br />
 
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/0*a-5u4CyihHVPN7jv.png"></code>
-  <code><img width="15%" heigth="100px" src="https://seekvectorlogo.com/wp-content/uploads/2022/01/drupal-vector-logo-2022-small.png"></code>
+  <code><img width="15%" heigth="100px" src="https://1000marcas.net/wp-content/uploads/2021/06/Drupal-log%D0%BE.png"></code>
   
   <br />
 </p>
