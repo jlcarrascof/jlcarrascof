@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p>
   <code><img width="15%" heigth="100px" src="https://cobaltoconsulting.com/wp-content/uploads/2019/09/javascript-logo.png"></code>
   <code><img width="15%" heigth="100px" src="https://programacion.net/files/article/article_02169_.jpg"></code>
-  <code><img width="15%"heigth="100px" src="https://disenowebakus.net/imagenes/articulos/html5.jpg"></code>
+  <code><img width="15%" heigth="100px" src="https://disenowebakus.net/imagenes/articulos/html5.jpg"></code>
   <code><img width="15%" heigth="100px" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1200px-Redux_Logo.png"></code>
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
@@ -49,7 +49,7 @@ https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/143772082
 -->
 
   <br />
-  <code><img width="15%"heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
+  <code><img width="15%" heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg"></code>
   <code><img width="15%" heigth="10opx" src="https://alvaroperdiz.com/images/headers/postgresql.png"></code>
   <code><img width="15%"  heigth="100px" src="https://i.blogs.es/91493f/sequelize/1366_2000.png"></code>
@@ -64,7 +64,7 @@ https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/143772082
    -->
   <br />
 
-  <code><img width="15%"heigth="100px" src="https://miro.medium.com/0*a-5u4CyihHVPN7jv.png"></code>
+  <code><img width="15%" heigth="100px" src="https://miro.medium.com/0*a-5u4CyihHVPN7jv.png"></code>
   <code><img width="15%" heigth="100px" src="https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1500w"></code>
   
   <br />
