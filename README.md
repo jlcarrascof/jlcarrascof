@@ -63,6 +63,10 @@ https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/143772082
   <code><img width="15%" heigth="100px" src="https://pro.guslyon.fr/static/material-ui-4a66e3fd52c7ec9469f4684b68aca251.png"></code>
    -->
   <br />
+
+  <code><img width="15%"heigth="100px" src="https://miro.medium.com/0*a-5u4CyihHVPN7jv.png"></code>
+  <code><img width="15%" heigth="100px" src="https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1500w"></code>
+  
   <br />
 </p>
 
