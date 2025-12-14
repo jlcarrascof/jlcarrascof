@@ -43,11 +43,6 @@ Here are some ideas to get you started:
   <code><img width="15%"heigth="100px" src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg"></code>
   <code><img width="15%"heigth="100px" src="https://bunnyacademy.b-cdn.net/what-is-docker.png"></code>
 
-<!--
-https://miro.medium.com/0*a-5u4CyihHVPN7jv.png
-https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1500w
--->
-
   <br />
   <code><img width="15%" heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg"></code>
@@ -65,7 +60,7 @@ https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/143772082
   <br />
 
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/0*a-5u4CyihHVPN7jv.png"></code>
-  <code><img width="15%" heigth="100px" src="https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1500w"></code>
+  <code><img width="15%" heigth="100px" src="https://images.squarespace-cdn.com/content/v1/551d16d4e4b0f5016a218c6e/1437720826784-X2310K7UA9Z7DFQFUIZ8/image-asset.jpeg?format=1000w"></code>
   
   <br />
 </p>
