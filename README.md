@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 [![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcarrascof&show_icons=true&theme=radical&layout=compact&langs_count=10)](https://github.com/jlcarrascof/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jlcarrascof&layout=compact)]
+[![Javier's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jlcarrascof)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)
