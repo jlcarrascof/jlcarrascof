@@ -65,10 +65,11 @@ Here are some ideas to get you started:
   <br />
 </p>
 
+<!--
 [![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcarrascof&show_icons=true&theme=radical&layout=compact&langs_count=10)](https://github.com/jlcarrascof/github-readme-stats)
 [![Javier's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jlcarrascof)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 [![Javier Martinez github stats](https://github-readme-stats.vercel.app/api?username=jlcarrascof&show_icons=true&theme=radical)](https://github.com/jlcarrascof/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlcarrascof&show_icons=true&theme=radical&layout=compact)](https://github.com/jlcarrascof/github-readme-stats)
@@ -81,3 +82,5 @@ Here are some ideas to get you started:
 -->
 
 ![Languages over Last Year](https://wakatime.com/share/@jlcarrascof/9a7d8412-2472-4e5e-9ff9-46ec7fd2fc68.svg)
+![Coding Activity over Last 30 Days](https://wakatime.com/share/@jlcarrascof/48d63d39-e26a-46e3-9d08-e6431ded19b7.svg)
+
